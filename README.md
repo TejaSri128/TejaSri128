@@ -23,11 +23,11 @@
 
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjg5ZDI3MmM5ZTFkZjk5MzIxOWQyYzcwZjk3YTc5NTk1NDk1NTgzZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/L8K62iTDkzGX6/giphy.gif" />
 
-- 🎓 Final Year **B.Tech Computer Science** student
-- 🔭 Currently working on **Generative AI** and **Deep Learning** projects
-- 🌱 Building expertise in **Data Engineering** and **Scalable Solutions**
-- 👯 Looking to collaborate on **AI/ML** and **Data Analytics** projects
-- 💬 Ask me about **Python, Java, Data Science, Cloud Technologies**
+- 🎓 Final Year **B.Tech Information Technology** student
+- 🔭 Currently working on **Generative AI**projects
+- 🌱 Building expertise in **Academic projects** and **Scalable Solutions**
+- 👯 Looking to collaborate on **Software Engineer** projects
+- 💬 Ask me about **Java, Python, SQL, Cloud Technologies**
 - 📫 Reach me at **rajulapatiteja2005@gmail.com**
 - ⚡ Fun fact: **I debug with coffee and persistence! ☕️**
 
