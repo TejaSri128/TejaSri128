@@ -24,7 +24,7 @@
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjg5ZDI3MmM5ZTFkZjk5MzIxOWQyYzcwZjk3YTc5NTk1NDk1NTgzZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/L8K62iTDkzGX6/giphy.gif" />
 
 - 🎓 Final Year **B.Tech Information Technology** student
-- 🔭 Currently working on **Generative AI**projects
+- 🔭 Currently working on **AI** projects
 - 🌱 Building expertise in **Academic projects** and **Scalable Solutions**
 - 👯 Looking to collaborate on **Software Engineer** projects
 - 💬 Ask me about **Java, Python, SQL, Cloud Technologies**
